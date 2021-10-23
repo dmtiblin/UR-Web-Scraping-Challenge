@@ -6,8 +6,8 @@ In this assignment, you will build a web application that scrapes various websit
 
 
 
-Resources:
-https://redplanetscience.com
-https://spaceimages-mars.com/
-https://galaxyfacts-mars.com
-https://marshemispheres.com/
+Resources: </br>
+https://redplanetscience.com </br>
+https://spaceimages-mars.com/ </br>
+https://galaxyfacts-mars.com </br>
+https://marshemispheres.com/ </br>
